@@ -1,0 +1,80 @@
+
+.content{
+    display: flex;
+    margin: auto;
+    margin-top: 2.5rem;
+    width: 80rem;
+    height: 49rem;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.checkbox{
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+a i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 1rem;
+    width: 32px;
+    height: 32px;
+}
+
+form input[type="button"]{
+    background-color: rgb(233, 69, 19);
+    border: none;
+    border-radius: 5px;
+    height: 32px;
+    width: 100%;
+}
+
+.buttongoogle{
+    width: 80%;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    outline: 1px solid lightgray;
+    margin-right: 1rem;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.passwordsecurity .bar{
+    background-color: rgb(28, 235, 28);
+    flex: 1;
+    margin-right: 5px;
+    border-radius: 10px;
+    height: 0.3rem;
+}
+
+.passwordsecurity{
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.passwordsecurity .bar{
+    background-color: rgb(28, 235, 28);
+    flex: 1;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.passwordsecurity .bar:last-of-type{
+    background-color: rgb(207, 202, 202);
+}

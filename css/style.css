@@ -1,0 +1,14 @@
+@import 'reset.css';
+@import 'typography.css';
+@import 'media.css';
+@import 'form.css';
+
+/* uppbyggnad*/
+@import '../uppbyggnad/general.css';
+@import '../uppbyggnad/left.css';
+@import '../uppbyggnad/right.css';
+@import '../uppbyggnad/top.css';
+
+/* media scale */
+@import 'media.css';
+
