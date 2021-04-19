@@ -24,3 +24,5 @@ Jag la in en header i början av min body, den hade min banner-bild som jag la i
 I @media (min-width: 600px sa jag att .header-asgard inte skulle synas (display:none;)
 I @media (max-width: 600px sa jag att min .left inte skulle synas samt styling regler för att det skulle bli finare, tex att min text inte skulle vara lika inskjuten som på desktop verionen.
 Jag fick även styla om min .content i höjd så att allt fick plats på sidan utan att man behövde scrolla.
+Jag la in en animation på den sista rutan i min passwordbar så att den skiftar färg,6 olika färger på loppet av 10 sekunder i all oändlighet, la även in en alternate så att den skiftar tillbaka och inte bara börjar om.
+Jag la in meta taggar för viewport, description, keywords, author, charset, compitable. Jag la även in alt taggar på samtliga bilder. Jag hade kunnat länka in min sida ifrån andras sidor, samt lägga in google analytics.
