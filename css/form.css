@@ -6,6 +6,10 @@ form input[type="text"], form input[type="email"], form input[type="password"]{
 
 }
 
+input[type="checkbox" i] {
+    cursor:pointer;
+}
+
 .formsection:first-of-type{
     width: 100%;
     display: flex;
