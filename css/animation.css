@@ -1,0 +1,7 @@
+@keyframes pbar {
+    0% {background-color: rgb(207, 202, 202);}
+    25% {background-color: rgb(207, 202, 202);}
+    50% {background-color: rgb(207, 202, 202);}
+    75% {background-color: rgb(207, 202, 202);}
+    100% {background-color:  rgb(28, 235, 28);}
+}

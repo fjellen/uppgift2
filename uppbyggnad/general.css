@@ -77,4 +77,7 @@ form input[type="button"]{
 
 .passwordsecurity .bar:last-of-type{
     background-color: rgb(207, 202, 202);
+    animation-name: pbar;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
 }
