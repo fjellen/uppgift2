@@ -19,7 +19,7 @@ h3 {
 }
 
 .or{
-    display: flex;
+    display: grid;
     justify-content: center;
     margin: 1rem;
 }
